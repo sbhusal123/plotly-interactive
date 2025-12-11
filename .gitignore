@@ -1,0 +1,27 @@
+# envs
+.venv
+.env
+
+# cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# jupyter
+.ipynb_checkpoints
+# logs
+logs/
+*.log
+# pytest
+.cache/
+.pytest_cache/
